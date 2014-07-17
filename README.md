@@ -1,5 +1,21 @@
 Cost of Redemption Enterprises Website
 
+v.1.2 changelog
+
+Changed titles of team members to respective specialties
+Reworked main page navigation
+Removed footer menu
+Removed 2nd footer menu
+Added phone number
+Started writing custom CSS script for Cherry
+Changed slug of courses page
+Added SEO title for Aaron and Noah
+Added SEO description for Aaron and Noah
+Got rid of a leak in Cherry PHP to improve site responsiveness
+Checked/tested responsive layout CSS rules. Tweaked for effectiveness
+
+
+
 v1.1 changelog
 
 Updated Cherry theme. 
