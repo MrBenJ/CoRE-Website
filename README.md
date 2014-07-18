@@ -1,5 +1,21 @@
 Cost of Redemption Enterprises Website
 
+v1.5 changelog
+
+Added SEO title for homepage
+Added SEO description for homepage
+Added CTA on homepage
+Homepage is done. Awaiting review.
+Edited several images in photoshop to fit design
+Added Casey's Bio
+Continued custom CSS script
+Tweaked and edited responsive layout
+Tested Responsive layout on iOS simulator
+Tested Responsive layout on Virtual Android Machine
+Started copywriting on About Us page
+MAJOR overhaul in writing on About Us page
+
+Site looks FANTASTIC on mobile!
 v.1.2 changelog
 
 Changed titles of team members to respective specialties
