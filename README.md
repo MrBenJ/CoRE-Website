@@ -1,5 +1,13 @@
 Cost of Redemption Enterprises Website
 
+v1.7 changelog
+
+Rewrote About Us Page
+Added CTAs to About Us
+Finished custom CSS script for whole site
+Added Testimonials
+Wrote Contact Form info
+
 v1.5 changelog
 
 Added SEO title for homepage
