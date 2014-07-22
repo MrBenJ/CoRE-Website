@@ -1,5 +1,15 @@
 Cost of Redemption Enterprises Website
 
+v2.0 changelog
+
+--SITE READY FOR LAUNCH--
+Added SEO title/description to Training Page
+Removed/Replaced Template for Training Page
+Added Javascript code to Training Page
+Tested Responsive CSS for Training Page
+Edited contact form for Training Page
+Launched site for final review
+
 v1.7 changelog
 
 Rewrote About Us Page
