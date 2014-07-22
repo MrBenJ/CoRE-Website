@@ -9,6 +9,9 @@ Added Javascript code to Training Page
 Tested Responsive CSS for Training Page
 Edited contact form for Training Page
 Launched site for final review
+Added some slide to homepage
+Changed order on About Us per Noah's request
+
 
 v1.7 changelog
 
