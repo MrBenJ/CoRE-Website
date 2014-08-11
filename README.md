@@ -1,6 +1,7 @@
 Cost of Redemption Enterprises Website
 
 v2.0 changelog
+SITE RELEASED - Invoice 0050
 
 --SITE READY FOR LAUNCH--
 Added SEO title/description to Training Page
